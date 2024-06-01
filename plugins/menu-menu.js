@@ -84,8 +84,8 @@ lugarFecha.locale('es', formatoFecha)
 const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A').replace(/^\w/, (c) => c.toUpperCase())
 
 let menu =`
- ╭━〔 *🌸 LuchitxBot Creador 🌸* 〕
-*┃➤ Creadores : LuchitxBot 🌸*
+ ╭━〔 *🌸 Quesito Creador 🌸* 〕
+*┃➤ Creadores : Quesito 🌸*
 *┃➤ Instagram : https://www.instagram.com/cristhofer_yallico 😻*
 *┃➤ Activo : ${uptime} 😹*
 *┃➤ Instagram : https://www.instagram.com/jenn_dzzn 🙈*
@@ -93,14 +93,14 @@ let menu =`
 *┃➤ Yape 2 : +51 955 250 033 💸*
  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Adquirir 🌸* 〕
+  ╭━〔 *🌸 Quesito Adquirir 🌸* 〕
  *┃➤* _${usedPrefix}Preciobot / Comprar El Bot_
- *┃➤* _${usedPrefix}Proveedor / Deseas Vender LuchitxBoti ?_
- *┃➤* _${usedPrefix}PinguiComu / Publicidad De La Comunidad LuchitxBoti_
+ *┃➤* _${usedPrefix}Proveedor / Deseas Vender Quesitoi ?_
+ *┃➤* _${usedPrefix}PinguiComu / Publicidad De La Comunidad Quesitoi_
  *┃➤* _${usedPrefix}Publicidadbot / Publicidad Del Bot_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Info 🌸* 〕
+  ╭━〔 *🌸 Quesito Info 🌸* 〕
  *┃➤* _${usedPrefix}cafirexos_
  *┃➤* _${usedPrefix}gruposgb_
  *┃➤* _${usedPrefix}donar_
@@ -112,7 +112,7 @@ let menu =`
  *┃➤* _${usedPrefix}velocidad_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Free Fire 🌸* 〕
+  ╭━〔 *🌸 Quesito Free Fire 🌸* 〕
  *┃➤* _${usedPrefix}Lista3 / Lista De Actividades_
  *┃➤* _${usedPrefix}Masc18 / Lista Masc 18_
  *┃➤* _${usedPrefix}Masc20 / Lista Masc 20_
@@ -140,39 +140,39 @@ let menu =`
  *┃➤* _${usedPrefix}InfinitoFem / Reglas Infinito Femenina Sur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Spamer 🌸* 〕
+  ╭━〔 *🌸 Quesito Spamer 🌸* 〕
  *┃➤* _${usedPrefix}SpamApk_
  *┃➤* _${usedPrefix}Comunidades_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Reclutamientos 🌸* 〕
+  ╭━〔 *🌸 Quesito Reclutamientos 🌸* 〕
  *┃➤* _${usedPrefix}TeamFem_
  *┃➤* _${usedPrefix}TeamMasc_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🌸 LuchitxBot Edits 🌸* 〕
+   ╭━〔 *🌸 Quesito Edits 🌸* 〕
  *┃➤* _${usedPrefix}ApkEdit_
  *┃➤* _${usedPrefix}DriveEdits_
  *┃➤* _${usedPrefix}Dzn / Servicio De Dzn - Comprar Edits_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🌸 LuchitxBot Tarjetas 🌸* 〕
+   ╭━〔 *🌸 Quesito Tarjetas 🌸* 〕
  *┃➤* _${usedPrefix}Cc2_
  *┃➤* _${usedPrefix}Tarjetas_
   ╰━━━━━━━━━━━━━
 
-   ╭━〔 *🌸 LuchitxBot Pornero 🌸* 〕
+   ╭━〔 *🌸 Quesito Pornero 🌸* 〕
  *┃➤* _${usedPrefix}PinguiPajero_
  *┃➤* _${usedPrefix}PinguiPornero_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Premium 🌸* 〕
+  ╭━〔 *🌸 Quesito Premium 🌸* 〕
  *┃➤* _${usedPrefix}listapremium | listprem_
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Juegos 🌸* 〕
+  ╭━〔 *🌸 Quesito Juegos 🌸* 〕
  *┃➤* _${usedPrefix}mates | matemáticas | math_
  *┃➤* _${usedPrefix}lanzar *cara* | *cruz*_
  *┃➤* _${usedPrefix}ppt *piedra : papel : tijera*_
@@ -218,12 +218,12 @@ let menu =`
  *┃➤* _${usedPrefix}suerte_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Ia 🌸* 〕
+  ╭━〔 *🌸 Quesito Ia 🌸* 〕
  *┃➤* _${usedPrefix}geminiimg *reaccione a una foto*_
  *┃➤* _${usedPrefix}gemini *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Ajustes Grupos 🌸* 〕
+  ╭━〔 *🌸 Quesito Ajustes Grupos 🌸* 〕
  *┃➤* _${usedPrefix}enable *o* disable *bienvenida | welcome*_
  *┃➤* _${usedPrefix}enable *o* disable *avisos | detect*_
  *┃➤* _${usedPrefix}enable *o* disable *autonivel | autolevelup*_
@@ -252,13 +252,13 @@ let menu =`
  *┃➤* _${usedPrefix}enable *o* disable *soloprivados | pconly*_
  *┃➤* _${usedPrefix}enable *o* disable *sologrupos | gconly*_  ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Ajustes 🌸* 〕
+  ╭━〔 *🌸 Quesito Ajustes 🌸* 〕
  *┃➤* _${usedPrefix}configuracion_
  *┃➤* _${usedPrefix}settings_
  *┃➤* _${usedPrefix}vergrupo_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Descargas 🌸* 〕
+  ╭━〔 *🌸 Quesito Descargas 🌸* 〕
  *┃➤* _${usedPrefix}imagen | image *texto*_
  *┃➤* _${usedPrefix}pinterest | dlpinterest *texto*_
  *┃➤* _${usedPrefix}wallpaper|wp *texto*_
@@ -288,7 +288,7 @@ let menu =`
  *┃➤* _${usedPrefix}historia_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Anonimo 🌸* 〕
+  ╭━〔 *🌸 Quesito Anonimo 🌸* 〕
  *┃➤* _${usedPrefix}chatanonimo | anonimochat_
  *┃➤* _${usedPrefix}anonimoch_
  *┃➤* _${usedPrefix}start_
@@ -296,7 +296,7 @@ let menu =`
  *┃➤* _${usedPrefix}leave_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Cmd Grupos 🌸* 〕
+  ╭━〔 *🌸 Quesito Cmd Grupos 🌸* 〕
  *┃➤* _${usedPrefix}add *numero*_
  *┃➤* _${usedPrefix}sacar | ban | kick  *@tag*_
  *┃➤* _${usedPrefix}grupo *abrir o cerrar*_
@@ -331,7 +331,7 @@ let menu =`
  *┃➤* _${usedPrefix}disable_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Parejas 🌸* 〕
+  ╭━〔 *🌸 Quesito Parejas 🌸* 〕
  *┃➤* _${usedPrefix}listaparejas | listship_
  *┃➤* _${usedPrefix}mipareja | mylove_
  *┃➤* _${usedPrefix}pareja | couple *@tag*_
@@ -340,7 +340,7 @@ let menu =`
  *┃➤* _${usedPrefix}terminar | finish *@tag*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Votaciones 🌸* 〕
+  ╭━〔 *🌸 Quesito Votaciones 🌸* 〕
  *┃➤* _${usedPrefix}crearvoto | startvoto *texto*_
  *┃➤* _${usedPrefix}sivotar | upvote_
  *┃➤* _${usedPrefix}novotar | devote_
@@ -348,7 +348,7 @@ let menu =`
  *┃➤* _${usedPrefix}delvoto | deletevoto_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Convertidores 🌸* 〕
+  ╭━〔 *🌸 Quesito Convertidores 🌸* 〕
  *┃➤* _${usedPrefix}toimg | img | jpg *sticker*_
  *┃➤* _${usedPrefix}toanime | jadianime *foto*_
  *┃➤* _${usedPrefix}tomp3 | mp3 *video o nota de voz*_
@@ -359,12 +359,12 @@ let menu =`
  *┃➤* _${usedPrefix}tts es *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Logos 🌸* 〕
+  ╭━〔 *🌸 Quesito Logos 🌸* 〕
  *┃➤* _${usedPrefix}logos *efecto texto*_
  *┃➤* _${usedPrefix}menulogos2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Efectos 🌸* 〕
+  ╭━〔 *🌸 Quesito Efectos 🌸* 〕
  *┃➤* _${usedPrefix}simpcard *@tag*_
  *┃➤* _${usedPrefix}hornycard *@tag*_
  *┃➤* _${usedPrefix}lolice *@tag*_
@@ -374,7 +374,7 @@ let menu =`
  *┃➤* _${usedPrefix}blur_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Fantasy 🌸* 〕
+  ╭━〔 *🌸 Quesito Fantasy 🌸* 〕
  *┃➤* _${usedPrefix}fantasy | fy_
  *┃➤* _${usedPrefix}fyguia | fyguide_
  *┃➤* _${usedPrefix}fantasyinfo | fyinfo_
@@ -385,7 +385,7 @@ let menu =`
  *┃➤* _${usedPrefix}fyentregar | fytransfer_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBoti Anime 🌸* 〕
+  ╭━〔 *🌸 Quesitoi Anime 🌸* 〕
  *┃➤* _${usedPrefix}chica_
  *┃➤* _${usedPrefix}chico_
  *┃➤* _${usedPrefix}cristianoronaldo_
@@ -438,7 +438,7 @@ let menu =`
  *┃➤* _${usedPrefix}cosplay_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Efectos A. 🌸* 〕
+  ╭━〔 *🌸 Quesito Efectos A. 🌸* 〕
  *┃➤* _${usedPrefix}bass_
  *┃➤* _${usedPrefix}blown_
  *┃➤* _${usedPrefix}deep_
@@ -453,7 +453,7 @@ let menu =`
  *┃➤* _${usedPrefix}tupai_
   ╰━━━━━━━━━━━━━
   	
-  ╭━〔 *🌸 LuchitxBot Busqueda 🌸* 〕
+  ╭━〔 *🌸 Quesito Busqueda 🌸* 〕
  *┃➤* _${usedPrefix}animeinfo *texto*_
  *┃➤* _${usedPrefix}anuel_
  *┃➤* _${usedPrefix}conejo_
@@ -468,7 +468,7 @@ let menu =`
  *┃➤* _${usedPrefix}wiki | wikipedia *texto*_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Herramientas 🌸* 〕
+  ╭━〔 *🌸 Quesito Herramientas 🌸* 〕
  *┃➤* _${usedPrefix}afk *motivo*_
  *┃➤* _${usedPrefix}acortar *url*_
  *┃➤* _${usedPrefix}calc *operacion math*_
@@ -484,7 +484,7 @@ let menu =`
  *┃➤* _${usedPrefix}horario_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Rpg 🌸* 〕
+  ╭━〔 *🌸 Quesito Rpg 🌸* 〕
  *┃➤* _${usedPrefix}pase premium_
  *┃➤* _${usedPrefix}pass premium_
  *┃➤* _${usedPrefix}listapremium | listprem_
@@ -510,7 +510,7 @@ let menu =`
  *┃➤* _${usedPrefix}myns_
  *┃➤* _${usedPrefix}unreg *numero de serie*_
  *┃➤* _${usedPrefix}minardiamantes | minargemas_
- *┃➤* _${usedPrefix}minarLuchitxBoticoins | minarcoins_
+ *┃➤* _${usedPrefix}minarQuesitoicoins | minarcoins_
  *┃➤* _${usedPrefix}minarexperiencia | minarexp_
  *┃➤* _${usedPrefix}minar *:* minar2 *:* minar3_
  *┃➤* _${usedPrefix}rob | robar 
@@ -526,11 +526,11 @@ let menu =`
  *┃➤* _${usedPrefix}fylista_
   ╰━━━━━━━━━━━━━
 
-  ╭━〔 *🌸 LuchitxBot Tops 🌸* 〕
+  ╭━〔 *🌸 Quesito Tops 🌸* 〕
  *┃➤* _${usedPrefix}top_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Stickers 🌸* 〕
+  ╭━〔 *🌸 Quesito Stickers 🌸* 〕
  *┃➤* _${usedPrefix}sticker | s *imagen o video*_
  *┃➤* _${usedPrefix}sticker | s *url de tipo jpg*_
  *┃➤* _${usedPrefix}emojimix *😺+😆*_
@@ -550,12 +550,12 @@ let menu =`
  *┃➤* _${usedPrefix}cs *:* cs2_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Stickers 2 🌸* 〕
+  ╭━〔 *🌸 Quesito Stickers 2 🌸* 〕
  *┃➤* _${usedPrefix}wm *packname|author*_
  *┃➤* _${usedPrefix}wm *texto1|texto2*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Stickers 3🌸* 〕
+  ╭━〔 *🌸 Quesito Stickers 3🌸* 〕
  *┃➤* _${usedPrefix}palmaditas | pat *@tag*_
  *┃➤* _${usedPrefix}bofetada | slap *@tag*_
  *┃➤* _${usedPrefix}golpear *@tag*_
@@ -563,7 +563,7 @@ let menu =`
  *┃➤* _${usedPrefix}alimentar | food *@tag*_
   ╰━━━━━━━━━━━━━
   
-  ╭━〔 *🌸 LuchitxBot Owners 🌸* 〕
+  ╭━〔 *🌸 Quesito Owners 🌸* 〕
  *┃➤* _${usedPrefix}join *enlace*_
  *┃➤* _${usedPrefix}unete *enlace*_
  *┃➤* _${usedPrefix}dardiamantes *cantidad*_
